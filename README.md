@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **non-fungible token Website**
 
-- 🌱 I’m currently learning **Html, Css, Javascript**
+- 🌱 I’m currently learning **Html, Css, Javascript, Phyton**
 
 - 💬 Ask me about **c++, c language**
 
